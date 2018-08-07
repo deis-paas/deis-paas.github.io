@@ -1,5 +1,5 @@
 name: Deis
-url: https://deis.io
+url: https://deis-paas.github.io
 tagline: The Kubernetes Company
 highlighter: rouge
 gems:
